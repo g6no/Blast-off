@@ -30,7 +30,7 @@ public class Rocket : MonoBehaviour
     public static int lives = 4;
     int loadingTime = 2;
     bool isActive = true;
-
+    int NaN;
 
     // Start is called before the first frame update
     void Start()
